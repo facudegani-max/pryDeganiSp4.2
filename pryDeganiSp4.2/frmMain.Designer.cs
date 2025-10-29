@@ -118,7 +118,7 @@
             btnValidar.TabIndex = 1;
             btnValidar.Text = "Validar";
             btnValidar.UseVisualStyleBackColor = true;
-            btnValidar.Click += btnValidar_Click_1;
+            //btnValidar.Click += btnValidar_Click_1;
             // 
             // btnMozoDia
             // 
